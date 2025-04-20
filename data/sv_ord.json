@@ -1,0 +1,1502 @@
+[
+    {
+        "question": "klimakterium",
+        "options": [
+            "befruktning",
+            "höjdpunkt",
+            "övergångsålder",
+            "miljöpåverkan",
+            "bakterieodling"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "insistera",
+        "options": [
+            "envisas",
+            "opponera sig",
+            "överbevisa",
+            "låta påskina",
+            "antyda"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "lektor",
+        "options": [
+            "medeltida musikant",
+            "mått på acceleration",
+            "pensionerad militär",
+            "del av koordinatsystem",
+            "lärare vid högskola"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "illustrativ",
+        "options": [
+            "idealisk",
+            "händelserik",
+            "skenbar",
+            "uppmärksammad",
+            "belysande"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "sömsmån",
+        "options": [
+            "osynlig söm",
+            "mönsterpassning",
+            "tygkant utanför söm",
+            "löst sydda stygn",
+            "valbar söm på symaskin"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "förlösa",
+        "options": [
+            "reda ut",
+            "befria",
+            "skilja åt",
+            "avhjälpa",
+            "mjuka upp"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "oförrätt",
+        "options": [
+            "olycksfall",
+            "kränkning",
+            "osanning",
+            "bestraffning",
+            "missbedömning"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "tongivande",
+        "options": [
+            "artig",
+            "idérik",
+            "pålitlig",
+            "ledande",
+            "övertygande"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "inte på långt när",
+        "options": [
+            "för länge sedan",
+            "långt ifrån",
+            "längre fram",
+            "långt senare",
+            "inte på länge"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "superlativer",
+        "options": [
+            "löften",
+            "böner",
+            "tillägg",
+            "beröm",
+            "argument"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "essä",
+        "options": [
+            "utkast",
+            "saga",
+            "skrivelse",
+            "dikt",
+            "uppsats"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "fiktiv",
+        "options": [
+            "symbolisk",
+            "tecknad",
+            "svårtolkad",
+            "saklig",
+            "påhittad"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "koalition",
+        "options": [
+            "överlämning",
+            "beslutsamhet",
+            "förhandling",
+            "sammanslutning",
+            "överensstämmelse"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "rugga",
+        "options": [
+            "ömsa skinn",
+            "förpuppas",
+            "byta fjädrar",
+            "kläckas",
+            "få vinterpäls"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "åthutning",
+        "options": [
+            "tillrättavisning",
+            "kraftigt ryck",
+            "avståndstagande",
+            "hård örfil",
+            "beskyllning"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "följaktligen",
+        "options": [
+            "naturligtvis",
+            "därför",
+            "säkert",
+            "ändå",
+            "verkligen"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "överpröva",
+        "options": [
+            "föra till högre instans",
+            "upprepa ett experiment",
+            "få någon ur balans",
+            "utvidga ett statistiskt urval",
+            "förlänga en tjänst"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "utblottad",
+        "options": [
+            "utfrusen",
+            "generad",
+            "smutskastad",
+            "ruinerad",
+            "avklädd"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "extremiteter",
+        "options": [
+            "inre organ",
+            "ryggkotor",
+            "armar och ben",
+            "ledband",
+            "fina blodkärl"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "parlör",
+        "options": [
+            "rådgivare",
+            "förförare",
+            "liten ordbok",
+            "missöde",
+            "föredragshållare"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2017"
+    },
+    {
+        "question": "målande",
+        "options": [
+            "svepande",
+            "överdriven",
+            "fantasifull",
+            "bildskön",
+            "uttrycksfull"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "eloge",
+        "options": [
+            "beröm",
+            "prydnad",
+            "gratulation",
+            "hedersplats",
+            "medalj"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "puka",
+        "options": [
+            "sångstil",
+            "dirigentplats",
+            "folkdans",
+            "slaginstrument",
+            "orgelpipa"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "alludera på",
+        "options": [
+            "vänta på",
+            "fundera på",
+            "anspela på",
+            "se ner på",
+            "hoppas på"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "pseudointellektuell",
+        "options": [
+            "självlärd person",
+            "skenbart bildad person",
+            "geniförklarad person",
+            "klassiskt skolad person",
+            "nytänkande person"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "hippologi",
+        "options": [
+            "läran om skelettet",
+            "läran om talmystik",
+            "läran om subkulturer",
+            "läran om bergarter",
+            "läran om hästar"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "bejakande",
+        "options": [
+            "glädjande",
+            "bekräftande",
+            "längtande",
+            "granskande",
+            "bedjande"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "ocker",
+        "options": [
+            "att skicka bluffakturor",
+            "att muta makthavare",
+            "att göra oskälig vinst",
+            "att missbruka ett förtroende",
+            "att utnyttja insiderinformation"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "florera",
+        "options": [
+            "övertäcka",
+            "frodas",
+            "utsmycka",
+            "lyckas",
+            "gruppera"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "eftermäle",
+        "options": [
+            "efterlysning",
+            "dålig kompromiss",
+            "klagomål",
+            "eftervärldens omdöme",
+            "korrigering"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "alter ego",
+        "options": [
+            "andra jag",
+            "nya jag",
+            "sämre jag",
+            "rätta jag",
+            "gamla jag"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "preskriberad",
+        "options": [
+            "förklarad",
+            "utesluten",
+            "bearbetad",
+            "avskriven",
+            "företrädd"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "gordisk knut",
+        "options": [
+            "missförstånd",
+            "svårlöst uppgift",
+            "huvudfråga",
+            "svag punkt",
+            "förbannelse"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "bestyrka",
+        "options": [
+            "intyga",
+            "tillägga",
+            "förbättra",
+            "inpränta",
+            "härda"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "ellips",
+        "options": [
+            "elektrisk laddning",
+            "sjukdomstillstånd",
+            "matematiskt bevis",
+            "planetformation",
+            "geometrisk figur"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "kufisk",
+        "options": [
+            "opålitlig",
+            "underlig",
+            "inställsam",
+            "ovänlig",
+            "egenkär"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "svinn",
+        "options": [
+            "frosseri",
+            "vårdslöshet",
+            "avkastning",
+            "struntsak",
+            "förlust"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "nagga",
+        "options": [
+            "utvidga",
+            "höja upp",
+            "gnaga",
+            "hugga tag i",
+            "fästa"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "med ens",
+        "options": [
+            "som vanligt",
+            "plötsligt",
+            "likafullt",
+            "ständigt",
+            "allt eftersom"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "patina",
+        "options": [
+            "åldrad yta",
+            "sirlig inristning",
+            "kort musikstycke",
+            "handsydda detaljer",
+            "tunn pappskiva"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "vt_2016"
+    },
+    {
+        "question": "fingervisning",
+        "options": [
+            "klagomål",
+            "förolämpning",
+            "antydan",
+            "punktinsats",
+            "hotelse"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "marginaliserad",
+        "options": [
+            "upprepad",
+            "förlorad",
+            "hjälplös",
+            "föråldrad",
+            "åsidosatt"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "plädering",
+        "options": [
+            "umgängesregel",
+            "undersökning",
+            "uppskattning",
+            "utläggning",
+            "ursäkt"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "stipulera",
+        "options": [
+            "fastställa",
+            "uträtta",
+            "konfrontera",
+            "betala",
+            "förneka"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "cysta",
+        "options": [
+            "broskskiva",
+            "inre blödning",
+            "tarmficka",
+            "vätskefylld blåsa",
+            "muskelbristning"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "arrogant",
+        "options": [
+            "irriterande",
+            "överlägsen",
+            "utlämnande",
+            "avvisande",
+            "motstridig"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "ynnest",
+        "options": [
+            "förmån",
+            "hyllning",
+            "begåvning",
+            "överdrift",
+            "förlåtelse"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "tillika",
+        "options": [
+            "sammanlagt",
+            "dessutom",
+            "eventuellt",
+            "fullständigt",
+            "exempelvis"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "kartlägga",
+        "options": [
+            "arrangera",
+            "lägga grund för",
+            "systematiskt utforska",
+            "pussla ihop",
+            "förbereda"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "instans",
+        "options": [
+            "beslutsnivå",
+            "närvaro",
+            "grundprincip",
+            "kännetecken",
+            "betänketid"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "ideell",
+        "options": [
+            "omtänksam",
+            "utan vinstintresse",
+            "kompromisslös",
+            "utan svagheter",
+            "demokratisk"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "petitess",
+        "options": [
+            "hemlighet",
+            "skrivelse",
+            "önskemål",
+            "avvikelse",
+            "obetydlighet"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "hämma",
+        "options": [
+            "neka",
+            "hindra",
+            "dölja",
+            "tystna",
+            "fördöma"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "legering",
+        "options": [
+            "nedbantning",
+            "förgasning",
+            "värmebehandling",
+            "färgning",
+            "metallblandning"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "tämligen",
+        "options": [
+            "lagom",
+            "utan tvekan",
+            "typiskt",
+            "rätt så",
+            "faktiskt"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "kommission",
+        "options": [
+            "domstolsjury",
+            "utlandstjänst",
+            "grupp av sakkunniga",
+            "intresseförening",
+            "handelsbolag"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "handfallen",
+        "options": [
+            "ledsen",
+            "förälskad",
+            "rådlös",
+            "längtansfull",
+            "praktisk"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "påföljd",
+        "options": [
+            "avslut",
+            "börda",
+            "tillskott",
+            "straff",
+            "orsak"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "alster",
+        "options": [
+            "verk",
+            "insekt",
+            "princip",
+            "redskap",
+            "fält"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "slå sina lovar kring",
+        "options": [
+            "sprida ut",
+            "undvika",
+            "imponera på",
+            "överblicka",
+            "kretsa runt"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2019"
+    },
+    {
+        "question": "kandelaber",
+        "options": [
+            "soppskål",
+            "festtåg",
+            "bakverk",
+            "kyrkorum",
+            "ljusstake"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "undermålig",
+        "options": [
+            "förtryckt",
+            "inställsam",
+            "försiktig",
+            "bristfällig",
+            "förstummad"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "feromoner",
+        "options": [
+            "smaksättare",
+            "nässeldjur",
+            "slingerväxter",
+            "näringspreparat",
+            "doftämnen"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "exponera",
+        "options": [
+            "överdriva",
+            "utsätta",
+            "företräda",
+            "utarma",
+            "överlägga"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "uppsåt",
+        "options": [
+            "impuls",
+            "avsikt",
+            "drivkraft",
+            "tillsyn",
+            "innebörd"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "habil",
+        "options": [
+            "duglig",
+            "modern",
+            "artig",
+            "långsam",
+            "farlig"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "polyglott",
+        "options": [
+            "fantasifull",
+            "rakryggad",
+            "öppenhjärtig",
+            "flerspråkig",
+            "allsidig"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "förpassa",
+        "options": [
+            "planera",
+            "skylla på",
+            "prova ut",
+            "skicka bort",
+            "varna"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "grift",
+        "options": [
+            "gåva",
+            "tunnel",
+            "inhägnad",
+            "borgruin",
+            "grav"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "fullvärdig",
+        "options": [
+            "fullblodig",
+            "fullgod",
+            "fullbordad",
+            "fullärd",
+            "fullmogen"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "plagiat",
+        "options": [
+            "draghjälp",
+            "förändring",
+            "missbruk",
+            "efterapning",
+            "tillägg"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "sparsmakad",
+        "options": [
+            "vanlig",
+            "okritisk",
+            "inåtvänd",
+            "omogen",
+            "kräsen"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "mota",
+        "options": [
+            "avstå",
+            "bråka",
+            "förbjuda",
+            "stoppa",
+            "välkomna"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "solidaritet",
+        "options": [
+            "starkt ledarskap",
+            "aktivt motstånd",
+            "uppskattad insats",
+            "självvald isolering",
+            "känsla av samhörighet"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "med råge",
+        "options": [
+            "framför allt",
+            "i stort sett",
+            "med eftertryck",
+            "på rätt sätt",
+            "väl tilltaget"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "elementa",
+        "options": [
+            "dammpartiklar",
+            "grundkunskaper",
+            "vågrörelser",
+            "förenklingar",
+            "väderfenomen"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "regenerera",
+        "options": [
+            "återfinna",
+            "återbilda",
+            "återhämta",
+            "återkalla",
+            "återberätta"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "kognition",
+        "options": [
+            "motoriska egenskaper",
+            "formuleringskonst",
+            "känslomässiga uttryck",
+            "överlevnadsinstinkt",
+            "intellektuella funktioner"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "oförvanskad",
+        "options": [
+            "oförbätterlig",
+            "uppenbar",
+            "ofördärvad",
+            "innehållslös",
+            "otvetydig"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "resning",
+        "options": [
+            "diskussion",
+            "varning",
+            "omprövning",
+            "domslut",
+            "ställningstagande"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "vt_2019"
+    },
+    {
+        "question": "moralisera",
+        "options": [
+            "ta ställning för något",
+            "uppmuntra",
+            "följa regler",
+            "godkänna",
+            "predika rätt och fel"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "okular",
+        "options": [
+            "stativ",
+            "lins",
+            "platta",
+            "lock",
+            "kapsel"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "på måfå",
+        "options": [
+            "oaktsamt",
+            "vanemässigt",
+            "fumligt",
+            "slumpmässigt",
+            "tankspritt"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "mausoleum",
+        "options": [
+            "gravbyggnad",
+            "kyrkoarkiv",
+            "slottsruin",
+            "pelargång",
+            "vapenförråd"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "inskränkt",
+        "options": [
+            "fokuserad",
+            "utesluten",
+            "begränsad",
+            "ihopslagen",
+            "invecklad"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "skenrättegång",
+        "options": [
+            "utdragen rättegång",
+            "rättegång utan domare",
+            "direktsänd rättegång",
+            "rättegång avgjord på förhand",
+            "snabb rättegång"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "vara under uppsegling",
+        "options": [
+            "närma sig",
+            "vara bevakad",
+            "vänta på sin tur",
+            "vara på sin vakt",
+            "lära sig"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "signum",
+        "options": [
+            "framtoning",
+            "klartecken",
+            "särmärke",
+            "föreskrift",
+            "täcknamn"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "avart",
+        "options": [
+            "orättvis kritik",
+            "falskt rykte",
+            "tung börda",
+            "snabbt slut",
+            "sämre variant"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "enahanda",
+        "options": [
+            "ensam",
+            "enväldig",
+            "enig",
+            "enformig",
+            "enkel – 2 –"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "febril",
+        "options": [
+            "lugn",
+            "envis",
+            "målinriktad",
+            "konstig",
+            "hektisk"
+        ],
+        "article": "",
+        "id": 1,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "metabolism",
+        "options": [
+            "blodcirkulation",
+            "vitaminbrist",
+            "immunförsvar",
+            "ämnesomsättning",
+            "livsduglighet"
+        ],
+        "article": "",
+        "id": 2,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "puritan",
+        "options": [
+            "filosof",
+            "enstöring",
+            "renlevnadsmänniska",
+            "bedragare",
+            "överstepräst"
+        ],
+        "article": "",
+        "id": 3,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "försumma",
+        "options": [
+            "lista ut",
+            "missunna",
+            "sammanfatta",
+            "strunta i",
+            "avlägsna"
+        ],
+        "article": "",
+        "id": 4,
+        "answer": "D",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "dubier",
+        "options": [
+            "glädjeämnen",
+            "tvivel",
+            "rikedomar",
+            "sorger",
+            "förhoppningar"
+        ],
+        "article": "",
+        "id": 5,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "blott",
+        "options": [
+            "endast",
+            "nästan",
+            "öppet",
+            "svagt",
+            "enkelt"
+        ],
+        "article": "",
+        "id": 6,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "uppsjö",
+        "options": [
+            "positiv trend",
+            "motstånd",
+            "stor mängd",
+            "variation",
+            "oväntad ökning"
+        ],
+        "article": "",
+        "id": 7,
+        "answer": "C",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "kurant",
+        "options": [
+            "glad",
+            "kraftig",
+            "syrlig",
+            "kvicktänkt",
+            "frisk"
+        ],
+        "article": "",
+        "id": 8,
+        "answer": "E",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "inkonsekvens",
+        "options": [
+            "tveksamhet",
+            "självmotsägelse",
+            "taktlöshet",
+            "missförhållande",
+            "inblandning"
+        ],
+        "article": "",
+        "id": 9,
+        "answer": "B",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    },
+    {
+        "question": "kokettera",
+        "options": [
+            "göra sig intressant",
+            "skämma ut sig",
+            "umgås förtroligt",
+            "ta hand om sig",
+            "göra upp planer"
+        ],
+        "article": "",
+        "id": 10,
+        "answer": "A",
+        "type": "sv_ord",
+        "exam": "ht_2018"
+    }
+]
